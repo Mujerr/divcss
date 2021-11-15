@@ -1,0 +1,21 @@
+
+.foto{
+    
+    background-image:url("../img/uno.jpg");
+    background-image: 50px 50px;
+    background-position: center;
+    border-style: solid;
+    border-width: 3px ; 
+    border-color: purple;
+    border-radius: 20px;
+    width: 1000px;
+    height: 800px;
+}
+.foto:hover{
+
+    background-image:url("../img/dos.jpg");
+    width: 1000px;
+    height: 800px;
+
+    
+}
